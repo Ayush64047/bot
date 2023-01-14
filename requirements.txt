@@ -11,7 +11,7 @@ requests
 psycopg2-binary
 feedparser
 tgcrypto
-youtube-dl-2021.1.8
+youtube-dl==2021.1.8
 ffmpeg-python
 
 ffmpeg
