@@ -11,8 +11,3 @@ echo "⚡️⚡️ Starting bot..."
 
 python3 main.py
 
-Footer
-
-© 2023 GitHub, Inc.
-
-Footer navigation
